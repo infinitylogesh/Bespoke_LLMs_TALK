@@ -1,6 +1,6 @@
 # Talk: Bespoke LLMs - Building and Scaling customized large language models
 
-Slides and code for the talk at Analytics Vidhya's DHS 2023 event and Saama's Tech meetup.
+Slides and code for the talk at Analytics Vidhya's [DHS 2023](https://www.analyticsvidhya.com/datahack-summit-2023/session/bespoke-llms-building-and-scaling-customized-large-language-models/) event and Saama's Tech meetup on 29th June 2023.
 
 
 ## Code:
